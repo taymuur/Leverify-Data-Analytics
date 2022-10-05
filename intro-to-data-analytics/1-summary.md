@@ -26,9 +26,16 @@ Even though computers are good at decision-making and can tackle unseen situatio
 * Individuals own the data that has been collected from them
 * If an individual's personal data is used, they should have transparent access to the process where the data is used and the insights that are generated.
 
-### Data Science career paths
+### Data Science Career Paths
 
-
+* Business Intelligence Executive
+* Data Architect
+* Data Analyst
+* Data Scientist
+* Data Engineer
+* Machine Learning Engineer
+* Machine Learning Scientist
+* Statistician
 
 
 
